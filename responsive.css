@@ -1,0 +1,35 @@
+@media all and(max-width:670px){
+.header p{
+        padding-left: 50px;
+}
+
+.footer-list{
+    display: block;
+}
+
+.footer-list li{
+        float: left;
+        display: block;
+        border-bottom: 1px solid white;
+
+ }
+
+.message{
+    height: 700px;
+}
+
+.contents-second{
+    font-size: 30px;
+}
+
+   
+}
+
+@media all and(min-width:1000px) {
+    .header p{
+        padding-left:600px;
+    }
+
+
+
+}
